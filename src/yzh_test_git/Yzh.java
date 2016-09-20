@@ -37,10 +37,5 @@ public class Yzh {
   public void setI(int i) {
     this.i = i;
   }
-  
-  
-  
-  
-  
-  
+
 }
