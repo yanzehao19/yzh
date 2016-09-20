@@ -6,8 +6,7 @@ public class Yzh {
   private int jk1;
   private  int i;
   private  int i1;
-<<<<<<< HEAD
-=======
+
   public int getI1() {
     return i1;
   }
@@ -32,7 +31,7 @@ public class Yzh {
     this.i1 = i1;
   }
 
->>>>>>> refs/remotes/origin/gittest0101
+
   public int getI() {
     return i;
   }
