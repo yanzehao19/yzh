@@ -5,6 +5,10 @@ public class Yzh {
   private int jk;
   private int jk1;
   private  int i;
+  private  int i1;
+  public int getI1() {
+    return i1;
+  }
 
   public int getJk() {
     return jk;
@@ -20,6 +24,10 @@ public class Yzh {
 
   public void setJk1(int jk1) {
     this.jk1 = jk1;
+  }
+
+  public void setI1(int i1) {
+    this.i1 = i1;
   }
 
   public int getI() {
